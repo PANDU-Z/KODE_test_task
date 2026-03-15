@@ -21,14 +21,14 @@
 
 ## 2. Архитектура проекта
 Создать базовую структуру папок:
-src
-api
-components
-pages
-types
-hooks
-utils
-styles
+- src
+- api
+- components
+- pages
+- types
+- hooks
+- utils
+- styles
 
 ---
 
